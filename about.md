@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-SIMR Seminars: Seattle's Informal Microbiome Research Seminars
+SIMR Seminars:
 
 ### Purpose and Scope
 
-SIMR's goal is to provide a constructive and supportive space to offer & receive feedback on our microbiome research, including on work in progress. Seminars aren't recorded (to encourage presentations on new work), and most of the audience is members of the academic/clinical microbiome community in the greater Seattle area and its alumni.
+The goal of Seattle's Informal Microbiome Research (SIMR) Seminars is to provide a constructive and supportive space to offer & receive feedback on our microbiome research, including on work in progress.
+
+Seminars aren't recorded (to encourage presentations on new work), and most of the audience is members of the academic/clinical microbiome community in the greater Seattle area and its alumni.
 
 ### Format
 
@@ -20,4 +22,4 @@ At present, seminars are **virtual** held via Zoom -- please contact us for the 
 
 ### Contact us
 
-Contact Amy Willis (she/her) and/or Sean Gibbons (he/him) to receive Zoom links to the call, and to sign up for the available slots! You can get in touch with them at ad[kangaroo]@uw.edu and s[moose]@isbscience.org, but you should replace the name of any mammals with their actual last names.
+Contact [Amy Willis](http://statisticaldiversitylab.com/) (she/her) and/or [Sean Gibbons](https://gibbons.isbscience.org/) (he/him) to receive Zoom links to the call, and to sign up for the available slots! You can get in touch with them at ad[kangaroo]@uw.edu and s[moose]@isbscience.org, but you should replace the names of mammals with their actual last names.
