@@ -1,7 +1,6 @@
 ---
 layout: page
 title: SIMR Seminars
-permalink: /home/
 ---
 
 Welcome to our website for the SIMR Seminars: Seattle's Informal Microbiome Research Seminars!
@@ -26,6 +25,3 @@ All SIMR Seminars run from 3:30--4:30 PST on Wednesdays unless otherwise noted.
 For more information about the scope and format of SIMR Seminars, including how to participate, click [About](https://simr-seminars.github.io/about/).
 
 *The schedule was last updated by Amy on Dec 7 2021 at 2:37pm.*
-
-<!-- - Nov 17: Sam Minot and Sean Koester -->
-<!-- - Dec 1 3pm: FHCRC Microbiome Research Initiative seminar, Dr. Motoko Koyama  -->
