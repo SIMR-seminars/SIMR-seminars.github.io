@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-SIMR Seminars:
-
 ### Purpose and Scope
 
 The goal of Seattle's Informal Microbiome Research (SIMR) Seminars is to provide a constructive and supportive space to offer & receive feedback on our microbiome research, including on work in progress.
 
-Seminars aren't recorded (to encourage presentations on new work), and most of the audience is members of the academic/clinical microbiome community in the greater Seattle area and its alumni.
+Seminars aren't recorded (to encourage presentations on new work), and most of the audience are members of the academic/clinical microbiome community in the greater Seattle area and its alumni.
 
 ### Format
 
