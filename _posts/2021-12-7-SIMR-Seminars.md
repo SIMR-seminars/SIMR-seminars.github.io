@@ -10,7 +10,9 @@ Our upcoming seminar schedule is
 - Dec 15 2021: Christian Diener and Abigail Schindler
 - Jan 12 2022: Evan Pepper and Karen Levy
 - Jan 26 2022: Matt Ciorba and Tomasz Wilmanski
+- Feb 2 2022: Muyiwa Awoniyi *(co-hosted with the UW Division of Gastroenterology)*
 - Feb 9 2022: Jonathan Golob and Christian Jobin
+- Feb 23 2022: Nicole Maloney Belle *(co-hosted with the UW Division of Gastroenterology)*
 - March 9 2022: Ana Weil and [one available slot]
 - March 23 2022: Neel Dey and Karolline May
 - April 6 2022: [two available slots]
@@ -24,4 +26,4 @@ All SIMR Seminars run from 3:30--4:30 PST on Wednesdays unless otherwise noted.
 
 For more information about the scope and format of SIMR Seminars, including how to participate, click [About](https://simr-seminars.github.io/about/).
 
-*The schedule was last updated by Amy on Dec 7 2021 at 2:37pm.*
+*The schedule was last updated by Amy on Dec 9 2021 at 10:37am.*
