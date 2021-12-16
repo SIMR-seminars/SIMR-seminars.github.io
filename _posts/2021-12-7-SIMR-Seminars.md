@@ -7,7 +7,6 @@ Welcome to our website for the SIMR Seminars: Seattle's Informal Microbiome Rese
 
 Our upcoming seminar schedule is
 
-- Dec 15 2021: Christian Diener and Abigail Schindler
 - Jan 12 2022: Evan Pepper and Karen Levy
 - Jan 26 2022: Matt Ciorba and Tomasz Wilmanski
 - Feb 2 2022: Muyiwa Awoniyi *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
