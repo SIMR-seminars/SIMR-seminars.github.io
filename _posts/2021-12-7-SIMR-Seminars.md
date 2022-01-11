@@ -12,7 +12,7 @@ Our upcoming seminar schedule is
 - Feb 2 2022: Muyiwa Awoniyi *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
 - Feb 9 2022: Jonathan Golob and Christian Jobin
 - Feb 23 2022: Nicole Maloney Belle *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
-- March 9 2022: Ana Weil and [one available slot]
+- March 9 2022: Ana Weil and Erica Fuhrmeister
 - March 23 2022: Neel Dey and Karolline May
 - April 6 2022: [two available slots]
 - April 20 2022: [two available slots]
