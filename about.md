@@ -30,3 +30,4 @@ Former SIMR Seminars have included talks from
 - Nov 17 2021: Sam Minot and Sean Koester
 - Dec 15 2021: Christian Diener and Abigail Schindler
 - Jan 12 2022: Evan Pepper
+- Jan 26 2022: Matt Ciorba and Tomasz Wilmanski
