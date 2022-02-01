@@ -14,9 +14,9 @@ Our upcoming seminar schedule is
 - March 23 2022: Neel Dey and Karolline May
 - April 6 2022: Kelsey Jesser and [one available slot]
 - April 20 2022: [two available slots]
-- May 4 2022: [two available slots]
+- May 4 2022: Purna C Kashyap and [one available slot]
 - May 18 2022: Bryan Brown and [one available slot]
-- June 1 2022: Youjun Suh and [one available slot]
+- June 1 2022: Youjun Suh and Donald Nyangahu
 - [break for the Summer Quarter]
 
 All SIMR Seminars run from 3:30--4:30 PST on Wednesdays unless otherwise noted.
