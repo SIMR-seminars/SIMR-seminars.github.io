@@ -31,3 +31,4 @@ Former SIMR Seminars have included talks from
 - Dec 15 2021: Christian Diener and Abigail Schindler
 - Jan 12 2022: Evan Pepper
 - Jan 26 2022: Matt Ciorba and Tomasz Wilmanski
+- Feb 2 2022: Muyiwa Awoniyi *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
