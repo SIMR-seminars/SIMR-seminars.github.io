@@ -8,9 +8,8 @@ Welcome to our website for the SIMR Seminars: Seattle's Informal Microbiome Rese
 Our upcoming seminar schedule is
 
 - Feb 23 2022: Nicole Maloney Belle *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
-- March 9 2022:  Erica Fuhrmeister and [one available slot]
 - March 23 2022: Karolline May and [one available slot]
-- April 6 2022: Kelsey Jesser and [one available slot]
+- April 6 2022: Kelsey Jesser and Erica Fuhrmeister
 - April 20 2022: Norma Morella and [one available slot]
 - May 4 2022: Purna C Kashyap and [one available slot]
 - May 18 2022: Bryan Brown and Ana Weil
