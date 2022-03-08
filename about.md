@@ -26,6 +26,7 @@ Contact [Amy Willis](http://statisticaldiversitylab.com/) (she/her) and/or [Sean
 
 Former SIMR Seminars have included talks from
 
+- Feb 23 2022: Nicole Maloney Belle *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
 - Nov 3 2021: Nick Bohmann and David Clausen
 - Nov 17 2021: Sam Minot and Sean Koester
 - Dec 15 2021: Christian Diener and Abigail Schindler
