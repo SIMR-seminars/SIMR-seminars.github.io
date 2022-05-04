@@ -7,7 +7,6 @@ Welcome to our website for the SIMR Seminars: Seattle's Informal Microbiome Rese
 
 Our upcoming seminar schedule is
 
-- April 20 2022: Norma Morella and Kendra Kamp
 - May 4 2022: Purna C Kashyap and Smritee Dabee
 - May 18 2022: Bryan Brown and Ana Weil
 - June 1 2022: Youjun Suh and Donald Nyangahu

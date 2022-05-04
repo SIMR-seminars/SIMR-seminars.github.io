@@ -14,7 +14,7 @@ Seminars aren't recorded (to encourage presentations on new work), and most of t
 
 SIMR Seminars are held approximately every other Wednesday between 3:30-4:30pm PST. Check out the upcoming schedule [here](https://simr-seminars.github.io/)!
 
-Typically, we have 2 x 20 minute presentations per session, with 3-5 minutes of questions/discussion after each. Presenters are encouraged to stay beyond 3:30-4:30 for continued discussion, if possible. We recognize that these are quite short talks, but this fits without theme of being informal and allows us more space for more presenters, and more time for audience questions.
+Typically, we have 2 x 20 minute presentations per session, with 3-5 minutes of questions/discussion after each. Presenters are encouraged to stay beyond 3:30-4:30 for continued discussion, if possible. We recognize that these are quite short talks, but this fits with our theme of being informal and allows us more space for more presenters, and more time for audience questions.
 
 At present, seminars are **virtual** held via Zoom -- please contact us for the zoom link!
 
@@ -36,3 +36,4 @@ Former SIMR Seminars have included talks from
 - Feb 23 2022: Nicole Maloney Belle *(co-hosted with the [UW Division of Gastroenterology](https://gastro.uw.edu/))*
 - March 23 2022: Karolline May and Lauren Rajakovich
 - April 6 2022: Kelsey Jesser and Erica Fuhrmeister
+- April 20 2022: Norma Morella and Kendra Kamp
