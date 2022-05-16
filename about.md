@@ -37,3 +37,4 @@ Former SIMR Seminars have included talks from
 - March 23 2022: Karolline May and Lauren Rajakovich
 - April 6 2022: Kelsey Jesser and Erica Fuhrmeister
 - April 20 2022: Norma Morella and Kendra Kamp
+- May 4 2022: Purna C Kashyap and Smritee Dabee
