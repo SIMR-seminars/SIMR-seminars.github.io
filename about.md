@@ -20,7 +20,7 @@ At present, seminars are **virtual** held via Zoom -- please contact us for the 
 
 ### Contact us
 
-Contact [Amy Willis](http://statisticaldiversitylab.com/) (she/her) and/or [Sean Gibbons](https://gibbons.isbscience.org/) (he/him) to receive Zoom links to the call, and to sign up for the available slots! You can get in touch with them at ad[kangaroo]@uw.edu and s[moose]@isbscience.org, but you should replace the names of mammals with their actual last names.
+Contact [Neel Dey](https://www.fredhutch.org/en/faculty-lab-directory/dey-neelendu.html) (he/him) at ndey@fredhutch.org to receive Zoom links to the call and to sign up for the available slots! 
 
 ### Past schedule
 
@@ -38,3 +38,8 @@ Former SIMR Seminars have included talks from
 - April 6 2022: Kelsey Jesser and Erica Fuhrmeister
 - April 20 2022: Norma Morella and Kendra Kamp
 - May 4 2022: Purna C Kashyap and Smritee Dabee
+- May 18 2022: Bryan Brown and Ana Weil
+- June 1 2022: Donald Nyangahu
+
+**Credit to Amy Willis for her brilliant conception of the acronym SIMR and for creating this website!**
+
