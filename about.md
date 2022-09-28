@@ -6,21 +6,19 @@ permalink: /about/
 
 ### Purpose and Scope
 
-The goal of Seattle's Informal Microbiome Research (SIMR) Seminars is to provide a constructive and supportive space to offer & receive feedback on our microbiome research, including on work in progress.
+The goal of Seattle's Informal Microbiome Research (SIMR) Seminars is to provide a constructive and supportive space to offer & receive feedback on our microbiome research.
 
 Seminars aren't recorded (to encourage presentations on new work), and most of the audience are members of the academic/clinical microbiome community in the greater Seattle area and its alumni.
 
 ### Format
 
-SIMR Seminars are held approximately every other Wednesday between 3:30-4:30pm PST. Check out the upcoming schedule [here](https://simr-seminars.github.io/)!
+SIMR Seminars are 1-hour virtual seminars approximately every other Wednesday afternoon starting at 3:30 PM, each with 1-2 presenters. Talks are ~20 minutes, with ~10 minutes of questions and discussion. Typically, presentations are work-in-progress research talks; in addition, this year we are seeking some presentations that focus on computational or experimental methods that may be of interest to this audience in solving problems in the microbiome field. We will also have guest moderators for each SIMR session, so if there is someone in the community from whom you would love to receive feedback on your talk, please let us know, and we’ll try to coordinate a date that works for all parties. We recognize that these are quite short talks, but this fits with our theme of being informal and allows us more space for more presenters, and more time for audience questions.
 
-Typically, we have 2 x 20 minute presentations per session, with 3-5 minutes of questions/discussion after each. Presenters are encouraged to stay beyond 3:30-4:30 for continued discussion, if possible. We recognize that these are quite short talks, but this fits with our theme of being informal and allows us more space for more presenters, and more time for audience questions.
-
-At present, seminars are **virtual** held via Zoom -- please contact us for the zoom link!
+Check out the upcoming schedule [here](https://simr-seminars.github.io/)!
 
 ### Contact us
 
-Contact [Neel Dey](https://www.fredhutch.org/en/faculty-lab-directory/dey-neelendu.html) (he/him) at ndey@fredhutch.org to receive Zoom links to the call and to sign up for the available slots! 
+Contact [Neel Dey](https://www.fredhutch.org/en/faculty-lab-directory/dey-neelendu.html) (he/him) at ndey@fredhutch.org to receive Zoom links to the seminars and to sign up for the available slots! 
 
 ### Past schedule
 
