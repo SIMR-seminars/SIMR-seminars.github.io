@@ -13,7 +13,7 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 11/30/22 with guest moderator Lauren Rajakovich - (1) Dan Lachance; (2) Sarah Teichman
 
-12/14/22 - (1) [available]; (2) [available]
+12/14/22 - (1) Nick Bohmann; (2) [available]
 
 1/11/23 - (1) [available]; (2) [available]
 
@@ -37,4 +37,4 @@ All SIMR Seminars run from 3:30-4:30 PM PST on Wednesdays unless otherwise noted
 
 For more information about the scope and format of SIMR Seminars, including how to participate, click [About](https://simr-seminars.github.io/about/).
 
-*The schedule was last updated on October 28, 2022.*
+*The schedule was last updated on November 2, 2022.*
