@@ -9,11 +9,12 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 11/2/22 - (1) Welcome back - Jeff McLean & Neel Dey; (2) Pauline Trinh 
 
-11/16/22 - (1) Armin Rashidi; (2) [available]
+11/16/22 - Armin Rashidi
 
-11/30/22 with guest moderator Lauren Rajakovich - (1) Dan Lachance; (2) Sarah Teichman
+11/30/22 - (1) Dan Lachance; (2) Sarah Teichman 
+*with guest moderator Lauren Rajakovich!*
 
-12/14/22 - (1) Nick Bohmann; (2) [available]
+12/14/22 - (1) Nick Bohmann; (2) Chris Whidbey
 
 1/11/23 - (1) [available]; (2) [available]
 
