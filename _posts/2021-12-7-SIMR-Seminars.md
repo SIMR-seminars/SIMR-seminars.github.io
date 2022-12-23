@@ -14,9 +14,10 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 11/30/22 - (1) Dan Lachance; (2) Sarah Teichman 
 *with guest moderator Lauren Rajakovich!*
 
-12/14/22 - (1) Nick Bohmann; (2) Chris Whidbey
+12/14/22 - Nick Bohmann
 
-1/11/23 - (1) [available]; (2) [available]
+1/11/23 - (1) Chris Whidbey; (2) [available]
+*with guest moderator Heather Jaspan!*
 
 1/25/23 - (1) [available]; (2) [available]
 
