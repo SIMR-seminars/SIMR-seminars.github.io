@@ -16,16 +16,14 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 12/14/22 - Nick Bohmann
 
-1/11/23 - (1) Chris Whidbey; (2) [available]
+1/11/23 - Chris Whidbey
 *with guest moderator Heather Jaspan!*
-
-1/25/23 - (1) [available]; (2) [available]
 
 2/8/23 - (1) [available]; (2) [available]
 
 3/1/23 - (1) [available]; (2) [available]
 
-3/15/23 - (1) Denise Chac; (2) [available]
+3/15/23 - (1) Denise Chac; (2) Evan Pepper
 
 3/29/23 - (1) [available]; (2) [available]
 
