@@ -19,7 +19,7 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 1/11/23 - Chris Whidbey
 *with guest moderator Heather Jaspan!*
 
-2/8/23 - (1) [available]; (2) [available]
+2/8/23 - (1) Beth Shen; (2) Alex Carr
 
 3/1/23 - (1) [available]; (2) [available]
 
@@ -31,7 +31,7 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 5/10/23 - (1) [available]; (2) [available]
 
-5/24/23 - (1) [available]; (2) [available]
+5/24/23 - (1) Don Nyangahu; (2) [available]
 
 All SIMR Seminars run from 3:30-4:30 PM PST on Wednesdays unless otherwise noted.
 
