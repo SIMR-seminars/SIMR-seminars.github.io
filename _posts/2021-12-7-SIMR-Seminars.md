@@ -21,7 +21,7 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 2/8/23 - (1) Beth Shen; (2) Alex Carr
 
-3/1/23 - (1) [available]; (2) [available]
+3/1/23 - (1) Kris Kerns; (2) [available]
 
 3/15/23 - (1) Denise Chac; (2) Evan Pepper
 
