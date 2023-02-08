@@ -18,7 +18,7 @@ Check out the upcoming schedule [here](https://simr-seminars.github.io/)!
 
 ### Contact us
 
-Contact [Neel Dey](https://www.fredhutch.org/en/faculty-lab-directory/dey-neelendu.html) (he/him) at ndey@fredhutch.org to receive Zoom links to the seminars and to sign up for the available slots! 
+As of February 1, 2023, we have a new permanent Director of the UW Microbiome Center, [Joseph Mougous](https://mougouslab.org) (he/him; mougous@uw.edu)! For the time being, contact former interim co-Director [Neel Dey](https://www.fredhutch.org/en/faculty-lab-directory/dey-neelendu.html) (he/him) at ndey@fredhutch.org to receive Zoom links to the seminars and to sign up for the available slots. 
 
 ### Past schedule
 
