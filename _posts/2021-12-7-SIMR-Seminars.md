@@ -37,4 +37,4 @@ All SIMR Seminars run from 3:30-4:30 PM PST on Wednesdays unless otherwise noted
 
 For more information about the scope and format of SIMR Seminars, including how to participate, click [About](https://simr-seminars.github.io/about/).
 
-*The schedule was last updated on November 2, 2022.*
+*The schedule was last updated on February 8, 2023.*
