@@ -25,9 +25,7 @@ Our upcoming seminar schedule of presenters and moderators will be posted shortl
 
 3/29/23 - (1) Kris Kerns; (2) [available]
 
-4/26/23 - (1) Abbie Schindler; (2) [available]
-
-5/10/23 - (1) [available]; (2) [available]
+5/10/23 - (1) Abbie Schindler; (2) [available]
 
 5/24/23 - (1) Don Nyangahu; (2) [available]
 
